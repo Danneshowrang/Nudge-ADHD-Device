@@ -19,3 +19,7 @@ This means adding additional features such as calendar reminders, built-in focus
 <img width="831" height="561" alt="image" src="https://github.com/user-attachments/assets/1b903954-b77b-4988-bae8-4d55607c56bf" />
 <img width="831" height="561" alt="image" src="https://github.com/user-attachments/assets/4ae35e8f-d3d4-4818-a4e1-ef6e85394bae" />
 <img width="823" height="295" alt="image" src="https://github.com/user-attachments/assets/02dda376-88e6-48f1-bd3b-6c02375fe67a" />
+
+## CAD Link
+Here is the link to the Onshape!
+https://cad.onshape.com/documents/210c189d286efe197b4a566f/w/a50a3c19759326f033c6858b/e/ea3b0ad6e4c0592fd1c20846?renderMode=0&uiState=6a46bb6c4d6ed321eca43a19
